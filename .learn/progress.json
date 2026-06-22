@@ -1,0 +1,95 @@
+{
+  "Python 基础": {
+    "technology": "Python 基础",
+    "currentStage": 6,
+    "totalStages": 6,
+    "completedConcepts": [
+      "变量与类型",
+      "字符串格式化 (f-string)",
+      "列表 (list)",
+      "字典 (dict)",
+      "元组 (tuple)",
+      "条件判断 (if/elif/else)",
+      "循环 (for/while)",
+      "函数 (def)",
+      "类与继承",
+      "魔术方法 (__str__, __eq__)",
+      "属性装饰器 (@property)",
+      "私有属性 (__前缀)",
+      "错误处理 (try/except)",
+      "自定义异常类",
+      "列表推导式",
+      "字典推导式",
+      "文件读写 (open/read/write)"
+    ],
+    "projectPath": "C:/Users/wdking/Desktop/py_learn",
+    "lastSession": "2026-06-22",
+    "status": "completed"
+  },
+  "Python 进阶": {
+    "technology": "Python 进阶",
+    "currentStage": 0,
+    "totalStages": 8,
+    "completedConcepts": [],
+    "projectPath": "C:/Users/wdking/Desktop/py_learn",
+    "lastSession": "2026-06-22",
+    "roadmap": [
+      {
+        "stage": 1,
+        "title": "Python 后端基础",
+        "goal": "从 JS 后端过渡到 Python 后端思维",
+        "concepts": ["模块与导入", "虚拟环境 (venv)", "pip 包管理"],
+        "estimated": "1-2 次学习"
+      },
+      {
+        "stage": 2,
+        "title": "FastAPI 入门",
+        "goal": "能搭建基本的 API 服务",
+        "concepts": ["路由与请求方法", "请求参数 (Path/Query/Body)", "响应模型 (Pydantic)", "自动文档 (Swagger)"],
+        "estimated": "2-3 次学习"
+      },
+      {
+        "stage": 3,
+        "title": "PostgreSQL + SQLAlchemy",
+        "goal": "能连接和操作 PostgreSQL",
+        "concepts": ["SQLAlchemy ORM", "数据库迁移 (Alembic)", "关系查询"],
+        "estimated": "2-3 次学习"
+      },
+      {
+        "stage": 4,
+        "title": "认证与中间件",
+        "goal": "实现用户认证和权限控制",
+        "concepts": ["JWT 认证", "依赖注入", "中间件", "CORS"],
+        "estimated": "2 次学习"
+      },
+      {
+        "stage": 5,
+        "title": "生产级进阶",
+        "goal": "能写出生产级别的代码",
+        "concepts": ["异步编程 (async/await)", "后台任务", "测试 (pytest)", "Docker 部署"],
+        "estimated": "2-3 次学习"
+      },
+      {
+        "stage": 6,
+        "title": "Agent 开发基础",
+        "goal": "理解 LLM 调用和 Agent 原理",
+        "concepts": ["LLM API 调用 (OpenAI/Anthropic)", "Prompt Engineering", "Function Calling"],
+        "estimated": "2 次学习"
+      },
+      {
+        "stage": 7,
+        "title": "Agent 框架",
+        "goal": "能用框架搭建 Agent",
+        "concepts": ["LangChain 基础", "Agent 模式 (ReAct)", "工具集成", "记忆与上下文"],
+        "estimated": "3 次学习"
+      },
+      {
+        "stage": 8,
+        "title": "RAG + pgvector",
+        "goal": "能做生产级的 RAG 应用",
+        "concepts": ["pgvector 向量存储", "Embedding", "检索策略", "RAG 完整流程"],
+        "estimated": "3 次学习"
+      }
+    ]
+  }
+}
