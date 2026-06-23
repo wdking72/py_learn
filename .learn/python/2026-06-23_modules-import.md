@@ -140,7 +140,54 @@ helper.say_hi()  # 输出: hi!
 
 ---
 
-## 8. 注意事项
+## 8. 虚拟环境 (venv)
+
+```bash
+# 创建虚拟环境
+python -m venv venv
+
+# 激活（Windows）
+venv\Scripts\activate
+
+# 退出虚拟环境
+deactivate
+```
+
+**关键点**：
+- 命令行出现 `(venv)` 表示已激活
+- 每个项目独立的依赖，互不干扰
+
+---
+
+## 9. pip 包管理
+
+```bash
+# 安装包（类似 npm install）
+pip install requests
+
+# 查看已安装的包
+pip list
+
+# 导出依赖（类似 package.json）
+pip freeze > requirements.txt
+
+# 从文件安装依赖（类似 npm install）
+pip install -r requirements.txt
+```
+
+| 命令 | 作用 | JS 对应 |
+|------|------|---------|
+| `pip install 包名` | 安装包 | `npm install 包名` |
+| `pip freeze > requirements.txt` | 导出依赖 | `package.json` |
+| `pip install -r requirements.txt` | 安装所有依赖 | `npm install` |
+
+**关键点**：
+- `requirements.txt` 就是 Python 的 `package.json`
+- requests 是最常用的 HTTP 库，类似 JS 的 axios
+
+---
+
+## 10. 注意事项
 
 ```python
 # ❌ 导入不存在的模块

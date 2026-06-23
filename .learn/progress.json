@@ -30,7 +30,7 @@
     "technology": "Python 进阶",
     "currentStage": 1,
     "totalStages": 8,
-    "completedConcepts": ["模块与导入"],
+    "completedConcepts": ["模块与导入", "虚拟环境 (venv)", "pip 包管理"],
     "projectPath": "C:/Users/wdking/Desktop/py_learn",
     "lastSession": "2026-06-23",
     "roadmap": [
