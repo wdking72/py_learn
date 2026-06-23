@@ -28,11 +28,11 @@
   },
   "Python 进阶": {
     "technology": "Python 进阶",
-    "currentStage": 0,
+    "currentStage": 1,
     "totalStages": 8,
-    "completedConcepts": [],
+    "completedConcepts": ["模块与导入"],
     "projectPath": "C:/Users/wdking/Desktop/py_learn",
-    "lastSession": "2026-06-22",
+    "lastSession": "2026-06-23",
     "roadmap": [
       {
         "stage": 1,
