@@ -28,11 +28,11 @@
   },
   "Python 进阶": {
     "technology": "Python 进阶",
-    "currentStage": 2,
+    "currentStage": 3,
     "totalStages": 8,
-    "completedConcepts": ["模块与导入", "虚拟环境 (venv)", "pip 包管理", "路由与请求方法", "请求参数 (Path/Query/Body)", "响应模型 (Pydantic)", "自动文档 (Swagger)"],
+    "completedConcepts": ["模块与导入", "虚拟环境 (venv)", "pip 包管理", "路由与请求方法", "请求参数 (Path/Query/Body)", "响应模型 (Pydantic)", "自动文档 (Swagger)", "SQLAlchemy ORM 基础"],
     "projectPath": "C:/Users/wdking/Desktop/py_learn",
-    "lastSession": "2026-06-23",
+    "lastSession": "2026-06-24",
     "roadmap": [
       {
         "stage": 1,
