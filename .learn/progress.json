@@ -30,9 +30,9 @@
     "technology": "Python 进阶",
     "currentStage": 3,
     "totalStages": 8,
-    "completedConcepts": ["模块与导入", "虚拟环境 (venv)", "pip 包管理", "路由与请求方法", "请求参数 (Path/Query/Body)", "响应模型 (Pydantic)", "自动文档 (Swagger)", "SQLAlchemy ORM 基础"],
+    "completedConcepts": ["模块与导入", "虚拟环境 (venv)", "pip 包管理", "路由与请求方法", "请求参数 (Path/Query/Body)", "响应模型 (Pydantic)", "自动文档 (Swagger)", "SQLAlchemy ORM 基础", "数据库迁移 (Alembic)"],
     "projectPath": "C:/Users/wdking/Desktop/py_learn",
-    "lastSession": "2026-06-24",
+    "lastSession": "2026-06-25",
     "roadmap": [
       {
         "stage": 1,
